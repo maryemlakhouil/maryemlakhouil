@@ -53,8 +53,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/maryem-lakhouil-245438357/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maryemlakhouil" height="30" width="40" /></a>
-<a href="https://twitter.com/maryem_lakhouil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maryem_lakhouil" height="30" width="40" /></a>
-<a href="https://instagram.com/maryem_lakhouil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maryem_lakhouil" height="30" width="40" /></a>
+
 </p>
 
 ---

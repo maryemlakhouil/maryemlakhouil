@@ -16,7 +16,6 @@
 
 🔭 I’m currently working on [MyProject](https://github.com/maryemlakhouil/MyProject)  
 
-💬 Ask me about **Dotnet Technology**  
 💡 I love creating clean, scalable, and efficient code that solves real-world problems  
 🌍 Passionate about **open-source contributions, tech communities, and mentoring juniors**  
 🎯 My goal is to become a **Full Stack developer with expertise in cloud technologies**  

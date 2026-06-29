@@ -43,8 +43,6 @@
 
 ## 👩‍💻 About Me
 
-🔭 I’m currently working on [MyProject](https://github.com/maryemlakhouil/MyProject)
-
 💡 I love creating clean, scalable, and efficient applications that solve real-world problems.
 
 ⚙️ I develop backend applications and REST APIs using **PHP and Laravel**.
